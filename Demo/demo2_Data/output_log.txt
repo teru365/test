@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.3602
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\Cloo.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\Cloo.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\Fluvio.Runtime.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\Fluvio.Runtime.dll into Unity Child Domain
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\unityproject\Demo\demo2_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.192 seconds
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\unityproject\Demo\demo2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.859572 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1364 -> priority: 1 
+  Thread -> id: eb8 -> priority: 1 
+  Thread -> id: 614 -> priority: 1 
+  Thread -> id: 1074 -> priority: 1 
