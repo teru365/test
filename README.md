@@ -28,4 +28,4 @@ DB　MySQL
 開発環境　Eclipse4.5
 DB　MySQL
 言語　java
-その他　Struts2.3、JSP、Servle
+その他　Struts2.3、JSP、Servlet
