@@ -20,131 +20,44 @@ header ul{
 header ul li{
     float:left;
     list-style:none;
-    padding-right: 70px;
+    padding-right:70px;
     color: white;
     font-size: 18px;
+}
+h1{
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+    width: 700px;
+    font-size:20px;
+}
+
+P{
+    font-size: 15px;
+}
+.mainright{
+    float:right;
+    width:30%;
+   
 }
 .mainleft{
     float:left;
     width:70%;
-    
+   
 }
 
-h1{
-    border-left:5px solid black;
-    border-bottom:2px solid black;
-    width: 900px;
-    font-size: 20px;
-    
-}
-h2{
-    font-size: 15px
-}
-P{
-   font-size: 15px;
-}
-.box1{
-    width:900px;
-    margin-top: 30px;
-    background-color:lightgray;
-    text-align:center;
-}
-.box1 img{
-    width:200px;
-    margin: 20px 10px -10px 5px;
-}
-.box1 .box_pic1{
-    display:inline-block;
-}
-
-.box2{
-    width:900px;
-    margin-bottom: 30px;
-    background-color:lightgray;
-    text-align:center;
-}
-.box2 img{
-    width:200px;
-    margin: 20px 10px -10px 5px;
-}
-.box2 .box_pic1{
-    display:inline-block;
-}
-
-.mainright{
-    float:right;
-    width:30%;
-}
 h3{
     border-bottom: 2px dotted black;
 }
+
 footer{
+    
     clear:left;
-    width: 100%;
+    width:100%;
     height:60px;
-    bottom: 0;
+    bottom:0;
     left: 0px;
-    color: white;
+    color:white;
     background-color:black;
     text-align:center;
     line-height:60px;
-}
-body{font-family: "Hiragino kaku Gothic ProN","メイリオ",sans-serif;
-}
-h4{
-    margin-top: 30px;
-    margin-bottom:20px;
-    border-left:4px red solid;
-    background-color:#f1f1f1;
-    padding-top:5px;
-    padding-bottom:5px;
-    padding-left:15px;
-    width:900px;
-    font-size:20px;
-}
-
-form{
-    background-color:#fbfbfb;
-    border:3px #ebebeb solid;
-    border-radius: 10px;
-    width:900px;
-}
-
-body{font-family: "Hiragino kaku Gothic ProN","メイリオ",sans-serif;
-}
-h4{
-    margin-top: 30px;
-    margin-bottom:20px;
-    border-left:4px red solid;
-    background-color:#f1f1f1;
-    padding-top:5px;
-    padding-bottom:5px;
-    padding-left:15px;
-    width:900px;
-    font-size:20px;
-}
-
-form{
-    background-color:#fbfbfb;
-    border:3px #ebebeb solid;
-    border-radius: 10px;
-    width:900px;
-}
-form div{
-    padding: 15px;
-}
-
-.test, textarea, .dropdown{
-    border:1px solid #dfdfdf;
-    padding:5px;
-    color: #999;
-    background: #fff;
-}
-.submit{
-    border:1px solid lightgray;
-    padding: 4px 10px;
-    color:white;
-    background-color: #bfbfbf;
-    border-radius: 5px;
-    border-bottom: solid 2px gray;
 }
